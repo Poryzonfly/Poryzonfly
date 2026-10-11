@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="420" viewBox="0 0 1280 420" role="img" aria-labelledby="title desc">
+  <title id="title">Poryzonfly — GitHub profile</title>
+  <desc id="desc">A midnight-blue digital landscape with pink, lavender, and cyan geometric forms. Apps, automation, and the occasional side quest.</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#101529"/><stop offset="1" stop-color="#19132b"/></linearGradient>
+    <linearGradient id="line"><stop stop-color="#ff76ae"/><stop offset=".5" stop-color="#bba9ff"/><stop offset="1" stop-color="#67e7ed"/></linearGradient>
+    <radialGradient id="pink-glow"><stop stop-color="#fa65a5" stop-opacity=".12"/><stop offset="1" stop-color="#fa65a5" stop-opacity="0"/></radialGradient>
+    <radialGradient id="cyan-glow"><stop stop-color="#67e7ed" stop-opacity=".1"/><stop offset="1" stop-color="#67e7ed" stop-opacity="0"/></radialGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#acbbdd" stroke-opacity=".065"/></pattern>
+  </defs>
+  <rect x="1" y="1" width="1278" height="418" rx="24" fill="url(#bg)" stroke="#343b54"/>
+  <ellipse cx="320" cy="185" rx="310" ry="180" fill="url(#pink-glow)"/>
+  <ellipse cx="1000" cy="208" rx="210" ry="200" fill="url(#cyan-glow)"/>
+  <rect x="2" y="2" width="1276" height="416" rx="23" fill="url(#grid)"/>
+  <path d="M32 1H1248" stroke="url(#line)" stroke-width="3"/>
+  <g fill="none" stroke="#67e7ed" stroke-opacity=".16">
+    <path d="M850 300l160-95 165 95-160 95zM850 275l160-95 165 95M850 250l160-95 165 95"/>
+    <circle cx="1013" cy="192" r="140" stroke-dasharray="4 14"/>
+    <path d="M821 192h384M1013 21v338" stroke-dasharray="4 12"/>
+  </g>
+  <g stroke="#f7d9ec" stroke-width="1.4" stroke-linejoin="round">
+    <path d="M984 109l83 44-8 80-82-43z" fill="#fc75ab"/>
+    <path d="M984 109l-66 47 59 34 82 43 8-80z" fill="#d14f8b"/>
+    <path d="M984 109l83 44-67 45-82-42z" fill="#ffa2c8"/>
+    <path d="M977 190l82 43-65 47-82-43z" fill="#78e6ef"/>
+    <path d="M977 190v-47l-65 47v47z" fill="#38a9c8"/>
+    <path d="M977 143l82 44v46l-82-43z" fill="#55cada"/>
+  </g>
+  <g fill="#ff88ba"><rect x="884" y="90" width="14" height="14" transform="rotate(25 891 97)"/><rect x="1129" y="231" width="10" height="10"/></g>
+  <g fill="#72e5ef"><rect x="1120" y="111" width="19" height="19" transform="rotate(30 1129 120)"/><rect x="869" y="214" width="8" height="8"/></g>
+  <g font-family="'DejaVu Sans',Arial,sans-serif">
+    <g font-family="'DejaVu Sans Mono',monospace" font-size="15" letter-spacing="3">
+      <circle cx="66" cy="69" r="4" fill="#74e8e5"/>
+      <text x="84" y="74" fill="#aeb9d5">CODE &amp; SIDE QUESTS</text>
+    </g>
+    <text x="60" y="169" fill="#f8f5ff" font-weight="800" font-size="75" letter-spacing="-3">PORYZONFLY<tspan fill="#ff84b5">.</tspan></text>
+    <text x="64" y="218" fill="#cbd3e8" font-size="23">Apps, automation, and the occasional side quest.</text>
+    <path d="M64 250H722" stroke="#343b54"/>
+    <text x="64" y="291" fill="#ff95c1" font-size="22" font-weight="bold">Build.</text>
+    <text x="151" y="291" fill="#c0b1ff" font-size="22" font-weight="bold">Refine.</text>
+    <text x="256" y="291" fill="#76e2ec" font-size="22" font-weight="bold">Evolve.</text>
+    <text x="64" y="368" fill="#aa91b7" font-size="14" font-family="'DejaVu Sans Mono',monospace" letter-spacing="2">CURRENT BUILD: WORK IN PROGRESS</text>
+    <text x="918" y="368" fill="#9aa8c9" font-size="13" font-family="'DejaVu Sans Mono',monospace" letter-spacing="2">137 → 233 → 474</text>
+  </g>
+</svg>
